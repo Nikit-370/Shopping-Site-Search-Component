@@ -9,7 +9,6 @@ Welcome to the Shopping Site  Project! This is a simple command-line shopping ap
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -41,6 +40,3 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
-
-## LICENSE
-This project is licensed under the MIT License - see the **LICENSE** file for details.
