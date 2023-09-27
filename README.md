@@ -25,11 +25,11 @@ Before you begin, ensure you have met the following requirements:
 
 2. Compile the Java code:
    ```sh
-   javac Driver.java
+   javac ShoppingProject/Driver.java
 
 3. Run the application:
    ```sh
-   java Driver
+   java ShoppingProject.Driver
 
 ## Features
 - Browse and select clothing items by type (Shirt, Jeans, Tshirt).
